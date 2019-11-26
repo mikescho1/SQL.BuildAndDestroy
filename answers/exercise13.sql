@@ -1,0 +1,3 @@
+SELECT * FROM Students
+ORDER BY Country ASC,
+CITY ASC;
